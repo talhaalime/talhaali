@@ -28,7 +28,7 @@ get_header();
               <div class="heading--primary mt-18">
                 <h1>
                   <span class="cl-gradient">I'm james,</span> product design
-                  based in USA
+                  based in USA Hello
                 </h1>
               </div>
               <div class="hero__text mt-16">
